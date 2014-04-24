@@ -8,7 +8,7 @@
 
 <meta name="description" content="Angels 5K fun run" />
 
-<meta name="keywords" content="run race 5 k angels baseball" />
+<meta name="keywords" content="run race 5 k angels baseball fun" />
 
 <meta name="author" content="DANDEWEBWONDERS" />
 
